@@ -3,8 +3,8 @@ title: "amithadar.com"
 layout: post
 date: 2016-01-23 22:10
 tag: Website
-image: /assets/images/jekyll-logo-light-solid.png
-headerImage: false
+image: assets/images/amithadar.png
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A portfolio website for my pretty girlfriend"
