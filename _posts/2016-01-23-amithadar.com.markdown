@@ -2,34 +2,21 @@
 title: "amithadar.com"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag: Website
 image: /assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A portfolio website for my pretty girlfriend"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":notebook_with_decorative_cover:" alt=":notebook_with_decorative_cover:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: Eyal
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
+amithadar.com is a portfolio website built with vanilla JS and raw HTML
+![Screenshot](https://www.dropbox.com/s/lrjrl0cxxgu33es/2016-07-13_20-44-55.png?dl=0)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Check out her stuff! Amit is a talented graphic designer with a sharp eye for details
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ---
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
