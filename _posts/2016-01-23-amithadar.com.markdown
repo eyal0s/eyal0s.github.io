@@ -8,7 +8,7 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A portfolio website for my pretty girlfriend"
-jemoji: '<img class="emoji" title=":notebook_with_decorative_cover:" alt=":notebook_with_decorative_cover:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ledger:" alt=":ledger:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: Eyal
 externalLink: false
 ---
