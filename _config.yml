@@ -29,15 +29,15 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/eyal0s
-twitter: https://twitter.com/eyalbe
+facebook: eyal0s
+twitter: eyalbe
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/eyalbe
+linkedin: eyalbe
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/eyal0s
+github: eyal0s
 # medium: medium
 # vimeo: myvimeo
 # email: myemail@gmail.com
