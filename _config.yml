@@ -1,6 +1,6 @@
 # main text of home
 name: Eyal Ben Ezra
-bio: I build stuff
+bio: PM for hire / Web Developer
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-63868209-5'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
